@@ -1,0 +1,5 @@
+- 👋 您好我是 @Kup1o
+- 👀 我对自学感兴趣
+- 🌱 我目前正在学习简体中文，한국어, HTML, CSS, JavaScript, Python
+- 💞️ 我想和一个害羞的韩国女人合作给她一个孩子（我不想冒犯她）[在此处了](https://namu.wiki/w/%EB%A6%AC%EC%A6%88(IVE))解有关照片上女孩的更多信息
+- 📫 联系我 https://twitter.com/kup1o__official
