@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kup1o&count_private=true&show_icons=true&theme=radical" width="420">
+<img align="right" src="https://readmestats.999857.xyz/api?username=kup1o&count_private=true&show_icons=true&theme=radical" width="420">
 
 👋 Hello, I'm [@kup1o](https://github.com/kup1o)  
 👀 I'm currently insterested in a self-development  
