@@ -1,9 +1,10 @@
-<center>EN | <a href="./README_ZH.md">简体中文</a>
+<center><a href="./README.md">EN</a> | 简体中文
 
-👋 Hello, I'm <a href=https://github.com/kup1o>@kup1o</a><br>
-👀 I'm currently interested in a self-development<br>
-🌱 I'm currently learning chinese, korean, rust<br>
-📫 You can contact me at <a href=https://t.me/kup1o>Telegram</a>.<br><br>
+👋 您好我是 <a href=https://github.com/kup1o>@kup1o</a>   
+👀 我对自学感兴趣  
+🌱 我目前正在学习简体中文、韩语、rust  
+📫 你可以通过<a href=https://t.me/kup1o>Telegram</a>联系我  
+
 
 <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html"><img src="https://img.shields.io/badge/OS-GNU/Linux-cdd6f4?style=for-the-badge&logo=gnu" /></a>
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=for-the-badge&logo=arch-linux" /></a>
