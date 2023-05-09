@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kup1o&theme=radical&hide_title=true&hide_rank=true&show_icons=true&line_height=24&hide_border=true&count_private=true" /></p>
+<img src="https://github-readme-stats-opal-alpha-27.vercel.app/api?username=kup1o&theme=radical&hide_title=true&hide_rank=true&show_icons=true&line_height=24&hide_border=true&count_private=true" /></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kup1o&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" /></p>
+<img src="https://github-readme-stats-opal-alpha-27.vercel.app.vercel.app/api/top-langs/?username=kup1o&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" /></p>
 </p>
