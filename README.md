@@ -7,6 +7,6 @@
 <a href="https://archlinux.org"><img src="https://img.shields.io/badge/DISTRO-Arch-74c7ec?style=for-the-badge&logo=arch-linux" /></a>
 <a href="https://neovim.io"><img src="https://img.shields.io/badge/EDITOR-Neovim-a6e3a1?style=for-the-badge&logo=neovim" /></a>
 <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/LANG-Rust-f2cdcd?style=for-the-badge&logo=rust&logoColor=orange" /></a><br><br>
-<img src="https://github-readme-stats-h5wt7ci4e-kup1o.vercel.app/api?username=kup1o&theme=radical&hide_title=true&hide_rank=true&show_icons=true&line_height=24&hide_border=true&count_private=true" /><br>
-<img src="https://github-readme-stats-h5wt7ci4e-kup1o.vercel.app//api/top-langs/?username=kup1o&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats-chi-six-51.vercel.app/api?username=kup1o&theme=radical&hide_title=true&hide_rank=true&show_icons=true&line_height=24&hide_border=true&count_private=true" /><br>
+<img src="https://github-readme-stats-chi-six-51.vercel.app/api/top-langs/?username=kup1o&theme=radical&hide_title=true&langs_count=8&layout=compact&hide_border=true" />
 </div>
